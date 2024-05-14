@@ -1,16 +1,7 @@
-# alarm_app
+# alarm-troller
 
-A new Flutter project.
+A fun simple app that i developed when i had nothing to do in my life.I dont know why i created it,blame my friend for planting the idea in my head.It's an alarm app that if you click the alarm button it randomly sets an alarm at a random date and time only to suprise you at that specific moment with no way of turning it off(because i forgot to add notifications) once it rings.
 
-## Getting Started
+# Made using Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+@author azymuthCodes
